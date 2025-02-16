@@ -186,7 +186,7 @@ var _hmt = _hmt || [];
 
 <style type="text/css">
   body{
-    color:rgb(7, 7, 7);
+    color:rgb(212, 13, 13);
   }
   p {
     margin: 0 0 1.5em 0;
