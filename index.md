@@ -48,7 +48,7 @@ I am a **<font color='#1677D2'>Senior Engineer</font>**  at the School of Physic
 
 - **计算机信息网络安全技术及发展方向研究**
   <br>
-  计算机信息网络安全技术及发展方向研究, 2022 
+  中国新通信, 2022 
   <div style="height:1em" />
 
 - **Target Detection in Infrared Image of Transmission Line Based on Faster-RCNN**
@@ -186,7 +186,7 @@ var _hmt = _hmt || [];
 
 <style type="text/css">
   body{
-    color: #333333;
+    color:rgb(7, 7, 7);
   }
   p {
     margin: 0 0 1.5em 0;
@@ -199,7 +199,7 @@ var _hmt = _hmt || [];
   }
   b{
     font-weight: 600;
-    color: #1677D2;
+    color:rgb(19, 106, 188);
   }
 </style>
 
