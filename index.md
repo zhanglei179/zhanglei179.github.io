@@ -137,14 +137,14 @@ I am a **<font color='#1677D2'>Senior Engineer</font>**  at the School of Physic
   <div style="height:1em" />
 
 ***
+# Research Projects
 
-# Teaching Information
-
-- **C Programming Language**
-- **Algorithms and Data Structures**
-- **Principles of Computer Networks**
-- **Network Communication Experiments**
-
+- **Research on Infrared and Color Visible Image Fusion in Haze Weather**
+  <br>
+  China Autonomous Region Science and Technology Project,2017
+- **Research on Infrared and Visible Image Fusion Technology in Haze Environment**
+  <br>
+  Other Research Project,2016
 ***
 
 # Teaching Information
