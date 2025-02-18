@@ -10,7 +10,7 @@ I am a **<font color='#1677D2'>Senior Engineer</font>**  at the School of Physic
 
 ***
 
-# School Homepage: [[Page](https://js.nenu.edu.cn/teacher/index_fix.php)] 
+# University Personal Homepage: [[Page](https://js.nenu.edu.cn/teacher/index_fix.php)] 
 
 ***
 
