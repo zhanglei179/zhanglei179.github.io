@@ -9,8 +9,8 @@ I am a **<font color='#1677D2'>Senior Engineer</font>**  at the School of Physic
 <font color='red'>If you want to collaborate with me, please feel free to contact me!</font>
 
 ***
+
 # School Homepage: [[Page](https://js.nenu.edu.cn/teacher/index_fix.php)] 
-<strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 ***
 
